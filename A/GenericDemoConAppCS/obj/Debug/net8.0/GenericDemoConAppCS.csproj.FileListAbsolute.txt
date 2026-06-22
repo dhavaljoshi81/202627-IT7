@@ -1,0 +1,14 @@
+C:\Lecture Demos\2026-27\IT7\GenericDemoConAppCS\bin\Debug\net8.0\GenericDemoConAppCS.exe
+C:\Lecture Demos\2026-27\IT7\GenericDemoConAppCS\bin\Debug\net8.0\GenericDemoConAppCS.deps.json
+C:\Lecture Demos\2026-27\IT7\GenericDemoConAppCS\bin\Debug\net8.0\GenericDemoConAppCS.runtimeconfig.json
+C:\Lecture Demos\2026-27\IT7\GenericDemoConAppCS\bin\Debug\net8.0\GenericDemoConAppCS.dll
+C:\Lecture Demos\2026-27\IT7\GenericDemoConAppCS\bin\Debug\net8.0\GenericDemoConAppCS.pdb
+C:\Lecture Demos\2026-27\IT7\GenericDemoConAppCS\obj\Debug\net8.0\GenericDemoConAppCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lecture Demos\2026-27\IT7\GenericDemoConAppCS\obj\Debug\net8.0\GenericDemoConAppCS.AssemblyInfoInputs.cache
+C:\Lecture Demos\2026-27\IT7\GenericDemoConAppCS\obj\Debug\net8.0\GenericDemoConAppCS.AssemblyInfo.cs
+C:\Lecture Demos\2026-27\IT7\GenericDemoConAppCS\obj\Debug\net8.0\GenericDemoConAppCS.csproj.CoreCompileInputs.cache
+C:\Lecture Demos\2026-27\IT7\GenericDemoConAppCS\obj\Debug\net8.0\GenericDemoConAppCS.dll
+C:\Lecture Demos\2026-27\IT7\GenericDemoConAppCS\obj\Debug\net8.0\refint\GenericDemoConAppCS.dll
+C:\Lecture Demos\2026-27\IT7\GenericDemoConAppCS\obj\Debug\net8.0\GenericDemoConAppCS.pdb
+C:\Lecture Demos\2026-27\IT7\GenericDemoConAppCS\obj\Debug\net8.0\GenericDemoConAppCS.genruntimeconfig.cache
+C:\Lecture Demos\2026-27\IT7\GenericDemoConAppCS\obj\Debug\net8.0\ref\GenericDemoConAppCS.dll
