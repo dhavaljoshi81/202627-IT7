@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git Repos\\202627-IT7\\A\\RecordTypeDemoMVCWebAPPCS7A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC0D1BD-58D9-4B1D-A678-E9E62F2106AA}|RecordTypeDemoMVCWebAPPCS7A.csproj|c:\\git repos\\202627-it7\\a\\recordtypedemomvcwebappcs7a\\views\\employee\\anonindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FC0D1BD-58D9-4B1D-A678-E9E62F2106AA}|RecordTypeDemoMVCWebAPPCS7A.csproj|solutionrelative:views\\employee\\anonindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC0D1BD-58D9-4B1D-A678-E9E62F2106AA}|RecordTypeDemoMVCWebAPPCS7A.csproj|c:\\git repos\\202627-it7\\a\\recordtypedemomvcwebappcs7a\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC0D1BD-58D9-4B1D-A678-E9E62F2106AA}|RecordTypeDemoMVCWebAPPCS7A.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC0D1BD-58D9-4B1D-A678-E9E62F2106AA}|RecordTypeDemoMVCWebAPPCS7A.csproj|c:\\git repos\\202627-it7\\a\\recordtypedemomvcwebappcs7a\\views\\employee\\structindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FC0D1BD-58D9-4B1D-A678-E9E62F2106AA}|RecordTypeDemoMVCWebAPPCS7A.csproj|solutionrelative:views\\employee\\structindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC0D1BD-58D9-4B1D-A678-E9E62F2106AA}|RecordTypeDemoMVCWebAPPCS7A.csproj|c:\\git repos\\202627-it7\\a\\recordtypedemomvcwebappcs7a\\models\\empr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC0D1BD-58D9-4B1D-A678-E9E62F2106AA}|RecordTypeDemoMVCWebAPPCS7A.csproj|solutionrelative:models\\empr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC0D1BD-58D9-4B1D-A678-E9E62F2106AA}|RecordTypeDemoMVCWebAPPCS7A.csproj|c:\\git repos\\202627-it7\\a\\recordtypedemomvcwebappcs7a\\views\\employee\\recordindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FC0D1BD-58D9-4B1D-A678-E9E62F2106AA}|RecordTypeDemoMVCWebAPPCS7A.csproj|solutionrelative:views\\employee\\recordindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC0D1BD-58D9-4B1D-A678-E9E62F2106AA}|RecordTypeDemoMVCWebAPPCS7A.csproj|c:\\git repos\\202627-it7\\a\\recordtypedemomvcwebappcs7a\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FC0D1BD-58D9-4B1D-A678-E9E62F2106AA}|RecordTypeDemoMVCWebAPPCS7A.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC0D1BD-58D9-4B1D-A678-E9E62F2106AA}|RecordTypeDemoMVCWebAPPCS7A.csproj|c:\\git repos\\202627-it7\\a\\recordtypedemomvcwebappcs7a\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC0D1BD-58D9-4B1D-A678-E9E62F2106AA}|RecordTypeDemoMVCWebAPPCS7A.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnonIndex.cshtml",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\A\\RecordTypeDemoMVCWebAPPCS7A\\Views\\Employee\\AnonIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\AnonIndex.cshtml",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\A\\RecordTypeDemoMVCWebAPPCS7A\\Views\\Employee\\AnonIndex.cshtml",
+              "RelativeToolTip": "Views\\Employee\\AnonIndex.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwCUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-04T05:44:34.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StructIndex.cshtml",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\A\\RecordTypeDemoMVCWebAPPCS7A\\Views\\Employee\\StructIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\StructIndex.cshtml",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\A\\RecordTypeDemoMVCWebAPPCS7A\\Views\\Employee\\StructIndex.cshtml",
+              "RelativeToolTip": "Views\\Employee\\StructIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-04T05:39:35.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecordIndex.cshtml",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\A\\RecordTypeDemoMVCWebAPPCS7A\\Views\\Employee\\RecordIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\RecordIndex.cshtml",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\A\\RecordTypeDemoMVCWebAPPCS7A\\Views\\Employee\\RecordIndex.cshtml",
+              "RelativeToolTip": "Views\\Employee\\RecordIndex.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-04T05:35:28.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpR.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\A\\RecordTypeDemoMVCWebAPPCS7A\\Models\\EmpR.cs",
+              "RelativeDocumentMoniker": "Models\\EmpR.cs",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\A\\RecordTypeDemoMVCWebAPPCS7A\\Models\\EmpR.cs",
+              "RelativeToolTip": "Models\\EmpR.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T05:31:58.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\A\\RecordTypeDemoMVCWebAPPCS7A\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\A\\RecordTypeDemoMVCWebAPPCS7A\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-04T05:18:18.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\A\\RecordTypeDemoMVCWebAPPCS7A\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\A\\RecordTypeDemoMVCWebAPPCS7A\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAmwDEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T05:12:39.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\A\\RecordTypeDemoMVCWebAPPCS7A\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\A\\RecordTypeDemoMVCWebAPPCS7A\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T05:11:12.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

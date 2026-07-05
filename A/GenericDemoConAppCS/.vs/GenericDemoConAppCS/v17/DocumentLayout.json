@@ -1,15 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Lecture Demos\\2026-27\\IT7\\GenericDemoConAppCS\\",
+  "WorkspaceRootPath": "C:\\Git Repos\\202627-IT7\\A\\GenericDemoConAppCS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{447AEFFA-08CF-4DEE-AFE4-FE7D2B944068}|..\\GenericDemoAppCSB\\GenericDemoAppCSB.csproj|c:\\lecture demos\\2026-27\\it7\\genericdemoappcsb\\igendatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Lecture Demos\\2026-27\\IT7\\GenericDemoAppCSB\\IGenDataManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{447AEFFA-08CF-4DEE-AFE4-FE7D2B944068}|..\\GenericDemoAppCSB\\GenericDemoAppCSB.csproj|c:\\lecture demos\\2026-27\\it7\\genericdemoappcsb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Lecture Demos\\2026-27\\IT7\\GenericDemoAppCSB\\ITwoGenClassDesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{447AEFFA-08CF-4DEE-AFE4-FE7D2B944068}|..\\GenericDemoAppCSB\\GenericDemoAppCSB.csproj|c:\\lecture demos\\2026-27\\it7\\genericdemoappcsb\\itwogenclassdesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Lecture Demos\\2026-27\\IT7\\GenericDemoAppCSB\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,42 +35,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ITwoGenClassDesign.cs",
               "DocumentMoniker": "C:\\Lecture Demos\\2026-27\\IT7\\GenericDemoAppCSB\\ITwoGenClassDesign.cs",
-              "RelativeDocumentMoniker": "..\\GenericDemoAppCSB\\ITwoGenClassDesign.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Lecture Demos\\2026-27\\IT7\\GenericDemoAppCSB\\ITwoGenClassDesign.cs",
               "ToolTip": "C:\\Lecture Demos\\2026-27\\IT7\\GenericDemoAppCSB\\ITwoGenClassDesign.cs",
-              "RelativeToolTip": "..\\GenericDemoAppCSB\\ITwoGenClassDesign.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Lecture Demos\\2026-27\\IT7\\GenericDemoAppCSB\\ITwoGenClassDesign.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T06:45:04.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-20T06:45:04.925Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "IGenDataManager.cs",
               "DocumentMoniker": "C:\\Lecture Demos\\2026-27\\IT7\\GenericDemoAppCSB\\IGenDataManager.cs",
-              "RelativeDocumentMoniker": "..\\GenericDemoAppCSB\\IGenDataManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Lecture Demos\\2026-27\\IT7\\GenericDemoAppCSB\\IGenDataManager.cs",
               "ToolTip": "C:\\Lecture Demos\\2026-27\\IT7\\GenericDemoAppCSB\\IGenDataManager.cs",
-              "RelativeToolTip": "..\\GenericDemoAppCSB\\IGenDataManager.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAACgAAAAAAAAA",
+              "RelativeToolTip": "..\\..\\..\\..\\Lecture Demos\\2026-27\\IT7\\GenericDemoAppCSB\\IGenDataManager.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T06:39:24.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-20T06:39:24.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Lecture Demos\\2026-27\\IT7\\GenericDemoAppCSB\\Program.cs",
-              "RelativeDocumentMoniker": "..\\GenericDemoAppCSB\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Lecture Demos\\2026-27\\IT7\\GenericDemoAppCSB\\Program.cs",
               "ToolTip": "C:\\Lecture Demos\\2026-27\\IT7\\GenericDemoAppCSB\\Program.cs",
-              "RelativeToolTip": "..\\GenericDemoAppCSB\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Lecture Demos\\2026-27\\IT7\\GenericDemoAppCSB\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T06:30:50.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-20T06:30:50.896Z"
             }
           ]
         }

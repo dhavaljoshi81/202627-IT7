@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RecordTypeDemoMVCWebAPPCS7B.props" />
+</Project>

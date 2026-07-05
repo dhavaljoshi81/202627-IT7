@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GenericDemoConAppCS
-build_property.ProjectDir = C:\Lecture Demos\2026-27\IT7\GenericDemoConAppCS\
+build_property.ProjectDir = C:\Git Repos\202627-IT7\A\GenericDemoConAppCS\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
