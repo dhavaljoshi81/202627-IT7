@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git Repos\\202627-IT7\\B\\IT7BTestManagerWenAppCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04BFCD63-B565-4DE7-8A06-1D4B22185B95}|IT7BTestManagerWenAppCS.csproj|c:\\git repos\\202627-it7\\b\\it7btestmanagerwenappcs\\controllers\\testscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BFCD63-B565-4DE7-8A06-1D4B22185B95}|IT7BTestManagerWenAppCS.csproj|solutionrelative:controllers\\testscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BFCD63-B565-4DE7-8A06-1D4B22185B95}|IT7BTestManagerWenAppCS.csproj|c:\\git repos\\202627-it7\\b\\it7btestmanagerwenappcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BFCD63-B565-4DE7-8A06-1D4B22185B95}|IT7BTestManagerWenAppCS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BFCD63-B565-4DE7-8A06-1D4B22185B95}|IT7BTestManagerWenAppCS.csproj|c:\\git repos\\202627-it7\\b\\it7btestmanagerwenappcs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04BFCD63-B565-4DE7-8A06-1D4B22185B95}|IT7BTestManagerWenAppCS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BFCD63-B565-4DE7-8A06-1D4B22185B95}|IT7BTestManagerWenAppCS.csproj|c:\\git repos\\202627-it7\\b\\it7btestmanagerwenappcs\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04BFCD63-B565-4DE7-8A06-1D4B22185B95}|IT7BTestManagerWenAppCS.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BFCD63-B565-4DE7-8A06-1D4B22185B95}|IT7BTestManagerWenAppCS.csproj|c:\\git repos\\202627-it7\\b\\it7btestmanagerwenappcs\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BFCD63-B565-4DE7-8A06-1D4B22185B95}|IT7BTestManagerWenAppCS.csproj|solutionrelative:models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestsController.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\B\\IT7BTestManagerWenAppCS\\Controllers\\TestsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestsController.cs",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\B\\IT7BTestManagerWenAppCS\\Controllers\\TestsController.cs",
+              "RelativeToolTip": "Controllers\\TestsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:03:01.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\B\\IT7BTestManagerWenAppCS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\B\\IT7BTestManagerWenAppCS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-20T07:51:03.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\B\\IT7BTestManagerWenAppCS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\B\\IT7BTestManagerWenAppCS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T07:41:54.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\B\\IT7BTestManagerWenAppCS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\B\\IT7BTestManagerWenAppCS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-20T07:40:50.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\B\\IT7BTestManagerWenAppCS\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "Models\\Test.cs",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\B\\IT7BTestManagerWenAppCS\\Models\\Test.cs",
+              "RelativeToolTip": "Models\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T05:53:02.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IT7BTestManagerWenAppCS.props" />
+</Project>
