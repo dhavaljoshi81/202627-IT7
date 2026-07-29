@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git Repos\\202627-IT7\\B\\IT7BPatientManagementMVCWebAPPCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A30F2F1-9095-4FEF-B8D5-87381808C406}|IT7BPatientManagementMVCWebAPPCS.csproj|c:\\git repos\\202627-it7\\b\\it7bpatientmanagementmvcwebappcs\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A30F2F1-9095-4FEF-B8D5-87381808C406}|IT7BPatientManagementMVCWebAPPCS.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A30F2F1-9095-4FEF-B8D5-87381808C406}|IT7BPatientManagementMVCWebAPPCS.csproj|c:\\git repos\\202627-it7\\b\\it7bpatientmanagementmvcwebappcs\\views\\patients\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A30F2F1-9095-4FEF-B8D5-87381808C406}|IT7BPatientManagementMVCWebAPPCS.csproj|solutionrelative:views\\patients\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A30F2F1-9095-4FEF-B8D5-87381808C406}|IT7BPatientManagementMVCWebAPPCS.csproj|c:\\git repos\\202627-it7\\b\\it7bpatientmanagementmvcwebappcs\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A30F2F1-9095-4FEF-B8D5-87381808C406}|IT7BPatientManagementMVCWebAPPCS.csproj|solutionrelative:views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A30F2F1-9095-4FEF-B8D5-87381808C406}|IT7BPatientManagementMVCWebAPPCS.csproj|c:\\git repos\\202627-it7\\b\\it7bpatientmanagementmvcwebappcs\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A30F2F1-9095-4FEF-B8D5-87381808C406}|IT7BPatientManagementMVCWebAPPCS.csproj|solutionrelative:views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A30F2F1-9095-4FEF-B8D5-87381808C406}|IT7BPatientManagementMVCWebAPPCS.csproj|c:\\git repos\\202627-it7\\b\\it7bpatientmanagementmvcwebappcs\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A30F2F1-9095-4FEF-B8D5-87381808C406}|IT7BPatientManagementMVCWebAPPCS.csproj|solutionrelative:controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A30F2F1-9095-4FEF-B8D5-87381808C406}|IT7BPatientManagementMVCWebAPPCS.csproj|c:\\git repos\\202627-it7\\b\\it7bpatientmanagementmvcwebappcs\\models\\it7bpatientmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A30F2F1-9095-4FEF-B8D5-87381808C406}|IT7BPatientManagementMVCWebAPPCS.csproj|solutionrelative:models\\it7bpatientmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A30F2F1-9095-4FEF-B8D5-87381808C406}|IT7BPatientManagementMVCWebAPPCS.csproj|c:\\git repos\\202627-it7\\b\\it7bpatientmanagementmvcwebappcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A30F2F1-9095-4FEF-B8D5-87381808C406}|IT7BPatientManagementMVCWebAPPCS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A30F2F1-9095-4FEF-B8D5-87381808C406}|IT7BPatientManagementMVCWebAPPCS.csproj|c:\\git repos\\202627-it7\\b\\it7bpatientmanagementmvcwebappcs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A30F2F1-9095-4FEF-B8D5-87381808C406}|IT7BPatientManagementMVCWebAPPCS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\B\\IT7BPatientManagementMVCWebAPPCS\\Views\\Patients\\Search.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patients\\Search.cshtml",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\B\\IT7BPatientManagementMVCWebAPPCS\\Views\\Patients\\Search.cshtml",
+              "RelativeToolTip": "Views\\Patients\\Search.cshtml",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAFkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-28T05:13:54.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\B\\IT7BPatientManagementMVCWebAPPCS\\Views\\Patients\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patients\\Create.cshtml",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\B\\IT7BPatientManagementMVCWebAPPCS\\Views\\Patients\\Create.cshtml",
+              "RelativeToolTip": "Views\\Patients\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwB0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-27T09:17:55.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\B\\IT7BPatientManagementMVCWebAPPCS\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patients\\Index.cshtml",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\B\\IT7BPatientManagementMVCWebAPPCS\\Views\\Patients\\Index.cshtml",
+              "RelativeToolTip": "Views\\Patients\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-27T09:17:13.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\B\\IT7BPatientManagementMVCWebAPPCS\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\B\\IT7BPatientManagementMVCWebAPPCS\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Controllers\\PatientsController.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAmwM8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T09:03:30.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\B\\IT7BPatientManagementMVCWebAPPCS\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\B\\IT7BPatientManagementMVCWebAPPCS\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T09:02:26.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\B\\IT7BPatientManagementMVCWebAPPCS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\B\\IT7BPatientManagementMVCWebAPPCS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T08:56:53.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "It7bpatientManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\B\\IT7BPatientManagementMVCWebAPPCS\\Models\\It7bpatientManagementDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\It7bpatientManagementDbContext.cs",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\B\\IT7BPatientManagementMVCWebAPPCS\\Models\\It7bpatientManagementDbContext.cs",
+              "RelativeToolTip": "Models\\It7bpatientManagementDbContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T08:54:41.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Git Repos\\202627-IT7\\B\\IT7BPatientManagementMVCWebAPPCS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Git Repos\\202627-IT7\\B\\IT7BPatientManagementMVCWebAPPCS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-27T08:52:31.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

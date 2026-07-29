@@ -1,0 +1,12 @@
+﻿CREATE TABLE Doctors (
+    DoctorId INT PRIMARY KEY IDENTITY,
+    Name NVARCHAR(100) NOT NULL,
+    Specialization NVARCHAR(100) NOT NULL
+);
+
+CREATE TABLE Patients (
+    PatientId INT PRIMARY KEY IDENTITY,
+    Name NVARCHAR(100) NOT NULL,
+    Age INT NOT NULL,
+    DoctorId INT FOREIGN KEY REFERENCES Doctors(DoctorId)
+);
