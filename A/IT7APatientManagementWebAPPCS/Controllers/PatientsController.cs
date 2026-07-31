@@ -160,5 +160,58 @@ namespace IT7APatientManagementWebAPPCS.Controllers
         {
             return _context.Patients.Any(e => e.PatientId == id);
         }
+
+        // GET: Patients/Search
+        public IActionResult Search()
+        {
+            ViewData["DoctorId"] = new SelectList(_context.Doctors, "DoctorId", "Name");
+
+            ViewData["Specialization"] = new SelectList(_context.Doctors.Select(d => d.Specialization).Distinct().ToList());
+            return View();
+        }
+
+        // POST: Patients/Search
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Search(string? Name, int? MinAge, int? MaxAge, int? DoctorId, string? Specialization)
+        {
+            var searchResult = _context.Patients.Include(p => p.Doctor).AsQueryable();
+            
+
+            if (!string.IsNullOrEmpty(Name))
+            {
+                searchResult = searchResult.Where(p => p.Name.Contains(Name));
+            }
+
+            if (MinAge is not null)
+            {
+                searchResult = searchResult.Where(p => p.Age >= MinAge);
+            }
+
+            if (MaxAge is not null)
+            {
+                searchResult = searchResult.Where(p => p.Age <= MaxAge);
+            }
+
+            if (DoctorId is not null && DoctorId != 0)
+            {
+                searchResult = searchResult.Where(p => p.DoctorId == DoctorId);
+            }
+
+            if (Specialization is not null)
+            {
+                searchResult = searchResult
+                    .Where(p => p.Doctor.Specialization == Specialization);
+            }
+
+            ViewData["DoctorId"] = new SelectList(_context.Doctors, "DoctorId", "Name");
+            ViewData["Specialization"] = new SelectList(_context.Doctors.Select(d => d.Specialization).Distinct().ToList());
+
+            
+            return View(searchResult.ToList());
+        }
+
     }
 }

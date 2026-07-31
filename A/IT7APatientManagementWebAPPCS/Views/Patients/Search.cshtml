@@ -1,0 +1,106 @@
+﻿@model List<IT7APatientManagementWebAPPCS.Models.Patient>
+
+@{
+    ViewData["Title"] = "Search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Search</h1>
+
+<h4>Patient</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Search">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label Name="lblName" class="control-label">Name</label>
+                <input Name="Name" class="form-control" />
+                
+            </div>
+            <div class="form-group">
+                <label Name="lblMinAge" class="control-label">Min Age</label>
+                <input Name="MinAge" class="form-control" />
+                
+            </div>
+            <div class="form-group">
+                <label Name="lblMaxAge" class="control-label">Max Age</label>
+                <input Name="MaxAge" class="form-control" />
+
+            </div>
+            <div class="form-group">
+                <label Name="DoctorId" class="control-label">Doctor</label>
+                <select Name="DoctorId" class="form-control" asp-items="ViewBag.DoctorId">
+                    <option value="">-- Select Doctor --</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label Name="lblSpecialization" class="control-label">Specialization</label>
+                <select Name="Specialization" class="form-control" asp-items="ViewBag.Specialization">
+                    <option value="">-- Select Specialization --</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Search" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Name
+                </th>
+                <th>
+                    Age
+                </th>
+                <th>
+                    Doctor
+                </th>
+                <th>
+                    Specialization
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Age)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Doctor.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Doctor.Specialization)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.PatientId">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.PatientId">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.PatientId">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}else if (Model != null)
+{
+    <p>No Records Found</p>
+}
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

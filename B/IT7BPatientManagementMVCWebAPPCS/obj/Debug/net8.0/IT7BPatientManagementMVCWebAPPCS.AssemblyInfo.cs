@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IT7BPatientManagementMVCWebAPPCS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e5498a97d67b0e031235cc55d1b1bf769e68ae0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31c68924422b0c99d54a7d3dc0a3f723e08f0eb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("IT7BPatientManagementMVCWebAPPCS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IT7BPatientManagementMVCWebAPPCS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
